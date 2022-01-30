@@ -1,7 +1,7 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
-Este projeto é de altoria do professor Falvo em: ==> https://github.com/falvojr/lab-banco-digital-oo
-para futuras atualizações e entrega do projeto no bootcamp da GFT Start#3 na DIO.
+Este projeto foi inspirado no mesmo projeto do professor Falvo em: ==> https://github.com/falvojr/lab-banco-digital-oo
+para futura entrega do projeto no bootcamp da GFT Start#3 na DIO.
 
 ## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
 
